@@ -24,5 +24,5 @@ A Simple JavaScript interactive Rock Paper Scissors game built with vanilla Java
 - Saving and retrieving data using localStorage
 
 ##  Screenshot
-![Image](screenshot.PNG)
+![Project Screenshot](pictures/project-screenshot.png)
 
